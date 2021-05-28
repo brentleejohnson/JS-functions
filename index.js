@@ -9,3 +9,10 @@ function person(name, lastName) {
 }
 
 person("Brent", "Johnson");
+
+// Calculating a value
+function square(number) {
+  return number * number;
+}
+
+console.log(square(2));
